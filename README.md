@@ -1,2 +1,2 @@
 # simulacionpareja
-Esto es un readme
+Ahora esto está tuneao
